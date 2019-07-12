@@ -1,2 +1,2 @@
 # svelte
-Repository created to test the Stelve framework
+Repository created to test the Svelte framework
